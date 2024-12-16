@@ -3,3 +3,5 @@ flask_pymongo==2.3.0
 pymongo==4.3.3
 werkzeug==2.2.2
 unittest2==1.1.0
+gunicorn==20.1.0
+s
